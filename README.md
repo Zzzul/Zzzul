@@ -1,15 +1,10 @@
 
 <p align="center">
   <br>
-<!--   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3d35625a9267640f708443bfa21e91b5d592aafc/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f4d454656637552496f564554554d595a45652f67697068792e676966">
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3d35625a9267640f708443bfa21e91b5d592aafc/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f4d454656637552496f564554554d595a45652f67697068792e676966">
     <img src="https://camo.githubusercontent.com/3d35625a9267640f708443bfa21e91b5d592aafc/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f4d454656637552496f564554554d595a45652f67697068792e676966" width="200px" data-canonical-src="https://media3.giphy.com/media/MEFVcuRIoVETUMYZEe/giphy.gif" style="max-width:100%;">
-  </a> -->
-  <link href="https://unpkg.com/nes.css@latest/css/nes.min.css" rel="stylesheet" />
-   <center>
-  <!-- octocat -->
-  <i class="nes-octocat animate"></i>
-  </center>
-  <br>
+  </a>
+
 <!--   <g-emoji class="g-emoji" alias="hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2665.png"><img class="emoji" alt="hearts" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2665.png"></g-emoji>  -->
 </p>
 
