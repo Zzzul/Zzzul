@@ -1,6 +1,6 @@
 <h2 align="left">Hi there 👋, I'm Mohammad Zulfahmi</h2>
 
-<h4 align="left">Tools</h4>
+<h4 align="left">Stacks</h4>
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"
         alt="bootstrap" width="40" height="40" /> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs"
         width="40" height="40" />
